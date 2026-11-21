@@ -1,0 +1,4 @@
+decision_ref,asset_ref,review_state,reviewed_at,reviewer_ref,reason
+D-1,A-1,restrict,2026-01-03,R-1,reviewed_claim
+D-2,A-2,needs_review,2026-01-05,R-2,context_changed
+D-3,A-3,cleared,2026-01-07,R-2,different_content

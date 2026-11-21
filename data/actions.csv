@@ -1,0 +1,4 @@
+action_ref,placement_ref,action_state,requested_at,completed_at,decision_ref
+AC-1,PL-1,completed,2026-01-03,2026-01-04,D-1
+AC-2,PL-2,pending,2026-01-05,,D-2
+AC-3,PL-3,not_requested,,,
